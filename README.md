@@ -1,5 +1,5 @@
 # Bartender APP (frontend)
-
+![bartender logo](https://sergio-avila.com/bartenderapp/logo-bartender.png)
 > A Vue.js project
 
 ## Build Setup
